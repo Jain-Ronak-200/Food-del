@@ -2,14 +2,6 @@
 
 Food-del is a web application for food delivery services, allowing users to browse menus, place orders, and track delivery status.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Browse food menus from various restaurants
