@@ -1,17 +1,41 @@
 # Food-del
 
-Food-del is a web application for food delivery services, allowing users to browse menus, place orders, and track delivery status.
+Food-del is a comprehensive JavaScript-based food delivery application that offers a wide range of features for both users and sellers.
 
 ## Features
 
-- Browse food menus from various restaurants
-- Add items to the cart and place orders
-- Track order status in real-time
-- User authentication and profile management
+### User Features
+- **User Sign-Up and Login**: Users can create accounts and log in to the platform.
+- **Browse Food Items**: View and order various food items available on the platform.
+- **Cuisine Filters**: Filter food items by different cuisines like Italian, Chinese, Indian, etc.
+- **Payment Options**: Pay using Cash on Delivery (COD), Stripe, or Razorpay.
+- **Order Tracking**: Track the status of your orders in real-time.
+
+### Seller Features
+- **Seller Dashboard**: 
+  - **Manage Products**: Add, remove, and list products.
+  - **Order Management**: View current orders and change the status of orders.
+  - **Sales Analytics**: View analytics and reports on sales and orders.
 
 ## Installation
 
-1. Clone the repository:
+To start using Food-del, follow these steps:
 
-   ```bash
-   git clone https://github.com/Jain-Ronak-200/Food-del.git
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Jain-Ronak-200/Food-del.git
+    ```
+2. Go to the project directory:
+    ```bash
+    cd Food-del
+    ```
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To run Food-del, use this command:
+```bash
+npm run dev
